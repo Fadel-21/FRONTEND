@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "5f15d8852a025143f9593a7c"
+  },
+  "image": "https://1.bp.blogspot.com/-3WeGAUSTia8/W-BhGAjeibI/AAAAAAAADQE/hKEb4ERP_KwTWdj0cFyR6IFwrrHRbNk7ACKgBGAs/s1600/20181105_081904_HDR.jpg",
+  "brand": "Rokok",
+  "price": 20000,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Juara",
+  "description": "The most hard FIFA ever",
+  "category": {
+    "$oid": "5f15d5cdcb4a6642bddc0fe9"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d92ee520d44421ed8e9b"
+  },
+  "image": "",
+  "brand": "Laptop",
+  "price": 35000,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "ROG 12",
+  "description": "beautiful chair for garden",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d964e520d44421ed8e9c"
+  },
+  "image": "",
+  "brand": "Mobile Phone",
+  "price": 13500,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Asus Zenfone 5",
+  "description": "beautiful Swimming Pool for garden",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d9b3e520d44421ed8e9d"
+  },
+  "image": "https://cf.shopee.co.id/file/00d90384a092e318c4bcd6ce5f5c2a73",
+  "brand": "Mobile Phone",
+  "price": 49000,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Asus Max Pro M2",
+  "description": "Grass Cut Machine for garden",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://www.apple.com/id/macbook-air-m2/images/overview/hero/battery_hw_midnight__ctl0mn014k2u_large.jpg",
+  "brand": "Laptop",
+  "price": 10000,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "MacOs M2",
+  "description": "Big Sofa for living room",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 2,
+  "__v": 0
+}]
